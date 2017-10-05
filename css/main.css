@@ -30,15 +30,15 @@ p + strong {
   color: #fff;
 }
 
-a:not(.no-highlight){
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-li:nth-child(3) .no-highlight{
+li:nth-child(3) .no-highlight {
   background-color: #2694d8;
 }
 
-ol li:first-child{
+ol li:first-child {
   color: #719e47;
 }
 
@@ -54,6 +54,6 @@ ol li:last-child {
   background-color: #586e75;
 }
 
-.types li:nth-child(3n){
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
