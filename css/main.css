@@ -14,9 +14,14 @@ h1.logo {
   text-transform: uppercase;
 }
 
-main.wrapper {
+.wrapper > .dfn {
   background-color: #eee8d5;
 }
+
 p + strong {
   color:#fff;
+}
+
+a:not(.no-highlight){
+  background-color: #719e07;
 }
