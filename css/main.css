@@ -18,6 +18,10 @@ h1.logo {
   background-color: #eee8d5;
 }
 
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
+}
+
 p + strong {
   color:#fff;
 }
@@ -26,6 +30,6 @@ a:not(.no-highlight){
   background-color: #719e07;
 }
 
-li + rel="external" {
+li:nth-child(3) .no-highlight{
   background-color: #2694d8;
 }
