@@ -27,7 +27,7 @@ h1.logo {
 }
 
 p + strong {
-  color:#fff;
+  color: #fff;
 }
 
 a:not(.no-highlight){
