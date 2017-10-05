@@ -25,3 +25,7 @@ p + strong {
 a:not(.no-highlight){
   background-color: #719e07;
 }
+
+rel="external" {
+  background-color: #2694d8;
+}
